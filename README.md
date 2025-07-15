@@ -5,6 +5,8 @@
 </p>
 
 ### 🛠 Recent Projects
+- [AWS ECS DEPLOYMENT](https://github.com/Tahmidur22/AWS-ECS-DEPLOY)
+- [EKS-ArgoCD-Project](https://github.com/Tahmidur22/eks-argocd)
 - [Microservice App (Kubernetes)](https://github.com/Tahmidur22/kube_microservices)
 - [3-tier-architecture-with-terraform](https://github.com/Tahmidur22/azure-terraform)
 - [CI/CD - ArgoCD/Jenkins Pipeline](https://github.com/Tahmidur22/react-django-app)

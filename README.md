@@ -11,7 +11,7 @@
 **Container Orchestration:** Kubernetes | Docker  
 **CI/CD & GitOps:** GitHub Actions | Azure DevOps | ArgoCD  
 **Observability:** Prometheus | Grafana | Log Analytics  
-**Data:** ADF | SQL Server    
+**Data:** ADF | SQL Server    | Application Insights   
 
 ---
 

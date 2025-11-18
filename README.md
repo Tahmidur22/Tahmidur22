@@ -10,8 +10,8 @@
 **Infrastructure as Code:** Terraform   
 **Container Orchestration:** Kubernetes | Docker  
 **CI/CD & GitOps:** GitHub Actions | Azure DevOps | ArgoCD  
-**Observability:** Prometheus | Grafana | Log Analytics  
-**Data:** ADF | SQL Server    | Application Insights   
+**Observability:** Prometheus | Grafana | Log Analytics  | Application Insights  
+**Data:** ADF | SQL Server     
 
 ---
 

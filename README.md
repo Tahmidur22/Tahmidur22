@@ -30,6 +30,8 @@
 ---
 ## 📊 Recent Projects
 
+- [Azure Kubernetes Deployment](https://github.com/Tahmidur22/terraform-modules) / [AKS-infra](https://github.com/Tahmidur22/aks-infra)
+- [Azure TFL Data Platform Deployment](https://github.com/Tahmidur22/dataops-tfl)
 - [AKS DEPLOYMENT](https://github.com/Tahmidur22/AKS-production-infra)
 - [AWS ECS DEPLOYMENT](https://github.com/Tahmidur22/AWS-ECS-DEPLOY)
 - [EKS-ArgoCD-Project](https://github.com/Tahmidur22/eks-argocd)
